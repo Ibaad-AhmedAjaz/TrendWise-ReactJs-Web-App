@@ -3,7 +3,9 @@
 In this project, let's build a **TrendWise - Clothing Store** by applying the concepts we have learned till now.
 Live : https://trendwiseapp.ccbp.tech Username : rahul | Password : rahul@2021
 
-### Refer to the video below:
+### Sample Images below:
+![trendwise](https://github.com/user-attachments/assets/b774f774-f89f-4b69-a8b1-a7ba62daff58)
+![Capture](https://github.com/user-attachments/assets/2678030a-c4e2-4a9d-83d2-6860628c4368)
 
 <br/>
 <div style="text-align: center;">
